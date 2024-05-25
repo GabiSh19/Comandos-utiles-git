@@ -25,7 +25,7 @@ Te permite cambiar el último commit.
 Apretar letra i para insertar nuevos textos. Para salir, apretar escape + : + wq!   ..(w:write, q: salir, ! para que lo haga inmediatamente.).
 git log para ver el arreglo del commit.
 
-8.git checkout -b nueva-rama (ó) git checkout nueva-rama  
+8. git checkout -b nueva-rama (ó) git checkout nueva-rama  
 Para agregar una nueva rama. (b de branch).
 Toma lo del último commit y a partir de ahí crea una nueva rama. 
 git branch para verificar las ramas existentes
